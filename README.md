@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate Front End Developer currently working at IDS. With a strong foundation in React, Next.js, and Node.js, I'm dedicated to crafting seamless and dynamic user experiences. 🚀<br>🌟 Currently working in:<br><br>    React<br>    Next.js<br>    Node.js<br><br>🤖 Also diving into:<br><br>    AI<br>    Machine Learning<br><br>Feel free to explore my repositories and reach out if you share an interest in tech or AI! ✨
+👋 Hi there! I'm a passionate Front End Developer currently working at iDiligence Solutions Pvt. Ltd. With a strong foundation in React, Next.js, and Node.js, I'm dedicated to crafting seamless and dynamic user experiences. 🚀<br>🌟 Currently working in:<br><br>    React<br>    Next.js<br>    Node.js<br><br>🤖 Also diving into:<br><br>    AI<br>    Machine Learning<br><br>Feel free to explore my repositories and reach out if you share an interest in tech or AI! ✨
 
 
 ## 🌐 Socials:

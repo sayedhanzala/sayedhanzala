@@ -1,7 +1,11 @@
 # 💫 About Me:
 
-👋 Hi there! I'm a Developer with 1 year of experience in development and machine learning. Managed an ML project that engineered robust
-data pipelines and automated data extraction using Python, Beautiful Soup, and Selenium.
+<h1 align="center">Hello 👋 Myself Sayed Hanzala</h1>
+<p>I had managed an ML project that engineered robust data pipelines and automated data extraction using Python, Beautiful Soup, and Selenium.</p>
+
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+
+- 💬 Ask me about **Machine Learning, Deep Learning, LLM, Transformers, Development, Python**
 
 ## 🌐 Socials:
 
